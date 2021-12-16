@@ -10,5 +10,5 @@ In recent years, attention has increasingly been paid to human resources (HR), s
 
 Approach
 
-Created a target variable from dataset. If an employee left the company within 6 months of any monthly report date we set it as 1 and 0 otherwise. Since we want to  predict if an employees leaves in the first quarter (6 months period), we want our model to capture the characteristics of those employees who tend to leave within 6 months of monthly reporting.
+Created a target variable from dataset. If an employee left the company within 6 months of any monthly report date we set it as 1 and 0 otherwise. Since we want to  predict if an employees leaves in the first quarter (6 months period), we want our model to capture the characteristics of those employees who tend to leave within 6 months of monthly reporting. Since we have access to monthly reporting date of all employee, we can use the model to predict if the employee would leave within 6 months of a specific reporting date. This can help us get an idea of when an employee is likely to leave the company.
 
