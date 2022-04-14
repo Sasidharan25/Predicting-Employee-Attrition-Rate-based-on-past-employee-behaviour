@@ -1,4 +1,4 @@
-# Analytics-Vidhya-Jobathon---Employee-Attrition-Rate-Prediction
+# Analytics-Vidhya-Jobathon---Predicting Employee Attrition Rate based on past employee behaviour
 
 
 **Type of Problem : CLASSIFICATION**
