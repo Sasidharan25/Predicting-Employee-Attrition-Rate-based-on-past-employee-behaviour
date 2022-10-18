@@ -1,5 +1,6 @@
 # Analytics-Vidhya-Jobathon---Predicting Employee Attrition Rate based on past employee behaviour
 
+![50662High-employee-turnover](https://user-images.githubusercontent.com/91523309/196420733-b317d554-a82d-4da3-9410-026ed8e6dd48.jpg)
 
 # Problem Statement
 
